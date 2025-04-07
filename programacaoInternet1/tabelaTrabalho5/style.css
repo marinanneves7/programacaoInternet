@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+  table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  th, td{
+    border: 1px solid #DDDDDD;;
+    padding: 6px;
+  }
+
+  th{
+    background-color: #ffffff;
+  }
+
+  .simbolos{
+      text-align: start;
+  }
+
+  .quadradoc{
+      background-color: #F7F7F7;;
+  }
+
+  .taca{
+    color: #0033cc;
+    font-weight: bold;
+  }
+
+  .pre{
+    color: #00ccff;
+    font-weight: bold;
+  }
+
+  .s-americana{
+    color: #ffcc00;
+    font-weight: bold;
+  }
+
+  .time-n{
+      color: #CCCCCC;
+      font-weight: bold;
+  }
+
+  .time-r{
+    color: red;
+    font-weight: bold;
+  }
+
+  .q{
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    border-radius: 2px;
+  }
+
+  .azul{ 
+    background-color: #0033cc; 
+  }
+
+  .azulc{ 
+    background-color: #00ccff; 
+  }
+  
+  .amarelo{ 
+    background-color: #ffcc00;
+  }
+
+  .vermelho{ 
+    background-color: #cc0000; 
+  }

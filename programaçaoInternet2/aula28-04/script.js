@@ -8,6 +8,9 @@ function trocarText(){
     //retornando o texto digitado no campo
     let textoDigitado = inputText.value;
 
+    //Convertendo o valor retornado no input em numero
+    let num = Number(inputText.value);
+
     //Alterando o texto do elemento h1
     h1Text.textContent = textoDigitado;
 }
